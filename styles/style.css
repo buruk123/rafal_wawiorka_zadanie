@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+
+.top-bar {
+    background-color: goldenrod;
+    margin: 0;
+}
+
+#cover {
+    background-size: cover;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+#cover-caption {
+    width: 100%;
+    position: relative;
+    z-index: 1;
+}
+
+.row-margin {
+    margin: 0;
+}
