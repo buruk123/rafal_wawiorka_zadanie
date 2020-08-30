@@ -15,11 +15,19 @@ Login: pawel123
 Password: pawel123
 
 a.	When you wish to create new account, you have to click on the "zaloguj/zarejestruj” located on top-right part of site.
+
 b.	Then click „zarejestruj się” button.
+
 c.	Type your credentials. Imię is first name, Nazwisko is last_name and Hasło is your password. Then click „zarejestruj się”.
+
 d.	Now you need to log in by clicking „zaloguj/zarejestruj” and type your credentials you typed when you register.
+
 2.	As an user, you can become an author by clicking „zostań autorem” or read articles written by other authors.
+
 3.	As an author, you can create articles by clicking „dodaj artykuł” or „edytuj swoje artykuły” to edit one of the existing articles, that you, as an author, were co-writer, or you wrote articles by yourself.
+
 a.	If you want to add article, you need to type title of the article, its content and authors (if article was written by two or more authors, then you need to type theirs names and surnames separated by semicolon).
+
 b.	If you want to edit article, you need to choose, which article you want to edit by choosing title. Then you will be transferred to site you can edit indicated article.
+
 4.	On the site, you can find „zadania rekturacyjne”, where you can find an API Endpoints, that you mentioned me to do as recruitment task.
