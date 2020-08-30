@@ -12,6 +12,7 @@ Project guide
   Password: michal123
   Login: pawel123
   Password: pawel123
+
 a.	When you wish to create new account, you have to click on the "zaloguj/zarejestruj” located on top-right part of site.
 
 b.	Then click „zarejestruj się” button.
